@@ -228,10 +228,6 @@ We welcome contributions! Here's how to get involved:
 5. Update documentation if needed
 6. Submit a pull request with clear description
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Mohamed Gad**
@@ -250,4 +246,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if you found it helpful!**  
 **🍴 Fork it to create your own emotion detection app!**
+
 
