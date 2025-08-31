@@ -236,8 +236,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Mohamed Gad**
 - GitHub: [@II-MohamedGad-II](https://github.com/II-MohamedGad-II)
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: https://www.linkedin.com/in/mohamed-gad-970a74280/
+- Portfolio: loading..
 
 ## 🙏 Acknowledgments
 
@@ -250,3 +250,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if you found it helpful!**  
 **🍴 Fork it to create your own emotion detection app!**
+
